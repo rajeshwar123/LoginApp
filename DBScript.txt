@@ -1,0 +1,7 @@
+# db table 
+
+username    password   role
+
+rajeshwar   123456     admin
+shubham     654987     student
+roshan      987456     employee
